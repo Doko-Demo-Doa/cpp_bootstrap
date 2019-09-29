@@ -1,3 +1,7 @@
+Attention: Make sure you have installed MacOS SDK Headers on OSX:
+
+`https://stackoverflow.com/questions/52509602/cant-compile-c-program-on-a-mac-after-upgrade-to-mojave`
+
 [![Build Status](https://travis-ci.org/evpo/cpp-project-template.svg?branch=master)](https://travis-ci.org/evpo/cpp-project-template)
 
 # C++ Project Template
